@@ -1,0 +1,15 @@
+Browserslist: browsers data (caniuse-lite) is 14 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[31mx[39m Build failed in 689ms
+[31merror during build:
+[31mCould not resolve "./App.tsx" from "src/main.jsx"[31m
+file: [36mC:/Users/tejas/OneDrive/Desktop/NEW_AI_MOCK/src/main.jsx[31m
+    at getRollupError (file:///C:/Users/tejas/OneDrive/Desktop/NEW_AI_MOCK/node_modules/.pnpm/rollup@4.32.0/node_modules/rollup/dist/es/shared/parseAst.js:396:41)
+    at error (file:///C:/Users/tejas/OneDrive/Desktop/NEW_AI_MOCK/node_modules/.pnpm/rollup@4.32.0/node_modules/rollup/dist/es/shared/parseAst.js:392:42)
+    at ModuleLoader.handleInvalidResolvedId (file:///C:/Users/tejas/OneDrive/Desktop/NEW_AI_MOCK/node_modules/.pnpm/rollup@4.32.0/node_modules/rollup/dist/es/shared/node-entry.js:20216:24)
+    at file:///C:/Users/tejas/OneDrive/Desktop/NEW_AI_MOCK/node_modules/.pnpm/rollup@4.32.0/node_modules/rollup/dist/es/shared/node-entry.js:20176:26[39m
+
+[36mvite v6.0.11 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 3 modules transformed.
